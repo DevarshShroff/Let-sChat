@@ -5,17 +5,13 @@ SJSU Connect is a real-time communication platform designed to help students and
 
 Built with Python, the system provides live messaging, department-based chat rooms, and an always-online environment where users can communicate anytime. The goal is to create a streamlined and accessible space for academic discussion, quick questions, collaboration, and community building across the university.
 
-The project includes:
+## The project includes:
 
-Real-time chat rooms organized by major, department, or course
-
-Student–to–student and student–to–faculty communication
-
-Secure authentication for SJSU users
-
-WebSocket-based live messaging
-
-A responsive user interface for web access
+ - Real-time chat rooms organized by major, department, or course
+- Student–to–student and student–to–faculty communication
+- Secure authentication for SJSU users
+- WebSocket-based live messaging
+- A responsive user interface for web access
 
 This platform aims to support student success by giving the SJSU community a fast, always-available way to interact outside of the classroom.
 
